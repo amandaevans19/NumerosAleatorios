@@ -1,6 +1,3 @@
-# Compiled class file
-*.class
-
 import java.util.Random;
 
 public class Main {
